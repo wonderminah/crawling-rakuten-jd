@@ -7,7 +7,7 @@ import markdown
 import xlsxwriter
 
 # URL
-url = 'https://japan-job-en.rakuten.careers/search-jobs/data%20analyst/'
+url = 'https://japan-job-en.rakuten.careers/search-jobs/software%20engineer/'
 
 # chrome-driverを起動、クローリング
 driver = webdriver.Chrome()
